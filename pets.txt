@@ -5,3 +5,5 @@ Anubis
 Malu
 Sansa
 Obi wan
+Organa
+Dora
